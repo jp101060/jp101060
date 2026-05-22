@@ -41,7 +41,7 @@ Dashboard de priorização de conteúdo baseado em análise de demanda do suport
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seu--perfil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-chagas-b64a441ba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jo%C3%A3o-pedro-chagas-b64a441ba-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-chagas-b64a441ba/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-seusite.com-000000?logo=vercel&logoColor=white)](https://seusite.com)
 [![Email](https://img.shields.io/badge/Email-jpedro152002@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:jpedro152002@gmail.com)
 ---
