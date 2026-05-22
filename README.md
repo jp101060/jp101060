@@ -1,4 +1,4 @@
-# Olá, eu sou [João Pedro Chagas] 👋
+# Olá, eu sou João Pedro Chagas 👋
 
 Analista de dados em formação, com experiência prática desenvolvendo ferramentas analíticas em ambiente corporativo real — dashboards conectados a bancos de dados em produção, APIs de automação com IA e relatórios gerenciais em Power BI.
 
