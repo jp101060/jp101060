@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou [João Pedro Chagas] 👋
 
 Analista de dados em formação, com experiência prática desenvolvendo ferramentas analíticas em ambiente corporativo real — dashboards conectados a bancos de dados em produção, APIs de automação com IA e relatórios gerenciais em Power BI.
 
@@ -41,9 +41,9 @@ Dashboard de priorização de conteúdo baseado em análise de demanda do suport
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seu--perfil-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-seu--perfil-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/jo%C3%A3o-pedro-chagas-b64a441ba/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-seusite.com-000000?logo=vercel&logoColor=white)](https://seusite.com)
-[![Email](https://img.shields.io/badge/Email-seuemail@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-seuemail@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:jpedro152002@gmail.com)
 
 ---
 
